@@ -1,0 +1,5 @@
+global_palette.h
+global_palette.c
+dvd_logo.h
+dvd_logo.c
+gfx.h
