@@ -6,10 +6,10 @@ extern "C" {
 #endif
 
 #define dvd_logo_width 56
-#define dvd_logo_height 56
-#define dvd_logo_size 3138
+#define dvd_logo_height 30
+#define dvd_logo_size 1682
 #define dvd_logo ((gfx_sprite_t*)dvd_logo_data)
-extern unsigned char dvd_logo_data[3138];
+extern unsigned char dvd_logo_data[1682];
 
 #ifdef __cplusplus
 }
