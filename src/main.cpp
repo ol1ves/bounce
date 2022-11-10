@@ -48,5 +48,5 @@ bool step() {
 }
 
 void draw() {
-    gfx_Sprite(dvd_logo, logoPos[0], logoPos[1]);
+    gfx_TransparentSprite(dvd_logo, logoPos[0], logoPos[1]);
 }
