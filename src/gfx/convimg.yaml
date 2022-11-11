@@ -7,6 +7,7 @@ converts:
     palette: global_palette
     images:
       - dvd_logo.png
+      - splashscreen.png
     transparent-index: 0
 
 outputs:

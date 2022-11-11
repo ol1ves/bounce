@@ -1,4 +1,4 @@
 unsigned char global_palette[2] =
 {
-    0x00, 0x00, /*   0: rgb(  0,   0,   0) */
+    0xff, 0xff, /*   0: rgb(255, 255, 255) */
 };

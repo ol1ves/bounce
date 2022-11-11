@@ -8,6 +8,7 @@ extern "C" {
 #include "global_palette.h"
 #define sprites_palette_offset 0
 #include "dvd_logo.h"
+#include "splashscreen.h"
 
 #ifdef __cplusplus
 }
